@@ -25,4 +25,10 @@
 2. Clone o repositório e instale as dependências necessárias com o comando:
    ```bash
    pip install opencv-python cvzone pyserial mediapipe
+3. Execute o script em Python para iniciar o controle da mão robótica.
+
+## 🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para discussões sobre melhorias e novas funcionalidades.
+Sinta-se à vontade para modificar qualquer parte que não atenda às suas necessidades! Se precisar de mais ajustes, é só avisar.
+
 
